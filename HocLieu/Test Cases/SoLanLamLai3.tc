@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra nhập ký tự lạ (&quot;@#%&amp;...&quot;) vào khu vực Số Lần Làm Lại</description>
+   <name>SoLanLamLai3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>43cf0595-31f9-4014-9d6c-03c607c312cf</testCaseGuid>
+</TestCaseEntity>

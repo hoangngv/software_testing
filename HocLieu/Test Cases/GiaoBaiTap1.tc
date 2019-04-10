@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra scroll chuột xem thời gian làm bài và số lần làm lại có tăng/giảm hay không.</description>
+   <name>GiaoBaiTap1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>547027e4-284f-45ed-b152-b7938bb69d9f</testCaseGuid>
+</TestCaseEntity>
